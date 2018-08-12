@@ -11,9 +11,9 @@ uml
 各类型文件路径
 
 - `code`
-  `./src/cn/f_ms/study/design_pattern/{design_pattern_name}/{instance_num}`
+  `./src/cn/f_ms/study/design_pattern/{design_pattern_name}/{instance_name}`
 - `uml`
-  `./uml/{design_pattern_name}/{instance_num}`
+  `./uml/{design_pattern_name}/{instance_name}`
 
 ## 导航
 
