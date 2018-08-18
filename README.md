@@ -19,9 +19,8 @@ uml
 
 此页面列出所有对应设计模式的代码实例,UML类图的指向链接
 
-- {设计模式名}
-  {设计模式英文称谓}
-  - ${代码实例名}
-    - UML link
-    - code link
+- 单例模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p01singleton)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/01_singleton)
+
 
