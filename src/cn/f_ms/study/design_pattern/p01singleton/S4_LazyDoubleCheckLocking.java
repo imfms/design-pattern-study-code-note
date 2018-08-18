@@ -8,7 +8,7 @@ package cn.f_ms.study.design_pattern.p01singleton;
  */
 public class S4_LazyDoubleCheckLocking {
 
-    private static S4_LazyDoubleCheckLocking sInstance;
+    private static volatile S4_LazyDoubleCheckLocking sInstance;
 
     private S4_LazyDoubleCheckLocking() {}
 
