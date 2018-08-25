@@ -17,10 +17,12 @@ uml
 
 ## 导航
 
-此页面列出所有对应设计模式的代码实例,UML类图的指向链接
+此页面列出所有对应设计模式的代码实例、UML类图的指向链接
 
 - 单例模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p01singleton)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/01_singleton)
-
+- 简单工厂模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p02simple_factory)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/02_simple_factory)
 
