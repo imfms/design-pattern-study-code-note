@@ -22,5 +22,7 @@ uml
 - 单例模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p01singleton)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/01_singleton)
-
+- 工厂方法模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p03factory_method)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/03_factory_method)
 
