@@ -28,4 +28,6 @@ uml
 - 工厂方法模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p03factory_method)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/03_factory_method)
-
+- 抽象工厂模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p04abstract_factory)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/04_abstract_factory)
