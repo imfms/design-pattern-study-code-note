@@ -31,3 +31,6 @@ uml
 - 抽象工厂模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p04abstract_factory)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/04_abstract_factory)
+- 原型模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p05prototype)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/05_prototype)
