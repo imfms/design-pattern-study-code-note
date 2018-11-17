@@ -34,3 +34,6 @@ uml
 - 原型模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p05prototype)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/05_prototype)
+- 建造者模式
+    - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p06builder)
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/06_builder)
