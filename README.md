@@ -37,3 +37,5 @@ uml
 - 建造者模式
     - [Code](https://github.com/imfms/design-pattern-study-code-note/tree/master/src/cn/f_ms/study/design_pattern/p06builder)
     - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/06_builder)
+- 适配器模式
+    - [UML](https://github.com/imfms/design-pattern-study-code-note/tree/master/uml/06_adapter)
